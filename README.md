@@ -1,4 +1,3 @@
-# Cybersecurity-Lab-Project
 # Cybersecurity Lab Project
 
 ## Overview
